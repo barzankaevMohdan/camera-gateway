@@ -109,4 +109,3 @@ ENCRYPTION_KEY=your-32-character-key
 ---
 
 Для детальной настройки смотрите [SETUP_MACOS.md](./SETUP_MACOS.md) или [SETUP_WINDOWS.md](./SETUP_WINDOWS.md)
-# camera-gateway
